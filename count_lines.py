@@ -1,6 +1,7 @@
 """
 Aim: This script counts the number of lines in standard input
 Input: strings from the comment line
+Output: counts
 """
 
 import sys
